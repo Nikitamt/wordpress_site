@@ -312,3 +312,26 @@ h2.title {
   font-size: 23px;
   font-weight: 400;
 }
+
+footer {
+  min-height: 169px;
+  background-color: #1A1A1A;
+  padding: 57px 0 69px 0;
+}
+
+.info {
+  color: #888;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: 300;
+}
+
+.info a {
+  color: #888;
+  text-decoration: none;
+}
+
+.info .info_links .underline {
+  text-decoration: underline;
+}
