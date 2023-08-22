@@ -254,6 +254,7 @@ h2.title {
 }
 
 .gift {
+  min-height: 630px;
   padding: 88px 0;
   background-color: #EFEFEF;
 }
@@ -273,3 +274,41 @@ h2.title {
   line-height: 43px; 
 }
 
+.first_vebinar {
+  min-height: 510px;
+  padding: 89px 0 52px 0;
+}
+
+.first_vebinar .first_vebinar_img {
+  display: block;
+  margin: 0 auto;
+}
+
+.first_vebinar .first_vebinar_header {
+  margin-top: 36px;
+  color: #252525;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 30px;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+
+.first_vebinar .first_vebinar_subheader {
+  margin-top: 30px;
+  color: #299CBD;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 36px;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.first_vebinar .first_vebinar_text {
+  margin-top: 24px;
+  color: #4A4A4A;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 23px;
+  font-weight: 400;
+}
